@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68f022dc.css",
+    "main.js": "/static/js/main.f0635fde.js",
+    "static/js/787.6faa3426.chunk.js": "/static/js/787.6faa3426.chunk.js",
+    "static/media/sushi-1.png": "/static/media/sushi-1.7d048564afa43fa5c487.png",
+    "static/media/sushi-3.png": "/static/media/sushi-3.72371a082d2736aa9a12.png",
+    "static/media/sushi-2.png": "/static/media/sushi-2.5e2cbf52b66d0ce32945.png",
+    "static/media/sushi-4.png": "/static/media/sushi-4.2e525c02b67e567f370e.png",
+    "static/media/sushi-11.png": "/static/media/sushi-11.fc6a234aa1166dd89a51.png",
+    "static/media/subscribe_bg.png": "/static/media/subscribe_bg.9e0850f788480d4f6d7d.png",
+    "static/media/sushi-5.png": "/static/media/sushi-5.fb250c7c5c856795d989.png",
+    "static/media/popular_bg.png": "/static/media/popular_bg.e3028944e378c2fe94b2.png",
+    "static/media/sushi-12.png": "/static/media/sushi-12.f3e3c3d01b85dbb60f0b.png",
+    "static/media/japanese_drinks.png": "/static/media/japanese_drinks.b05837a457eaa2d478fe.png",
+    "static/media/sushi-10.png": "/static/media/sushi-10.21c08032c9f0d51761fb.png",
+    "static/media/japanese_sushi.png": "/static/media/japanese_sushi.46a8a7fb5ffd90af81b7.png",
+    "static/media/user.png": "/static/media/user.1e6b2e79fe69646a98ca.png",
+    "static/media/about_bg1.png": "/static/media/about_bg1.7ba069f5e56ce7760947.png",
+    "static/media/about_bg2.png": "/static/media/about_bg2.fe1e1ec8c0c1ac9f80ac.png",
+    "static/media/star.svg": "/static/media/star.badcdb861e87a61572b41e5217971a6c.svg",
+    "index.html": "/index.html",
+    "static/media/check.svg": "/static/media/check.8d5486eaa052bbe95ec31747af0ee40b.svg",
+    "main.68f022dc.css.map": "/static/css/main.68f022dc.css.map",
+    "main.f0635fde.js.map": "/static/js/main.f0635fde.js.map",
+    "787.6faa3426.chunk.js.map": "/static/js/787.6faa3426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f022dc.css",
+    "static/js/main.f0635fde.js"
+  ]
+}
